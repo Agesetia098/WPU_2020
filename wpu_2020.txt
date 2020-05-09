@@ -4,6 +4,6 @@
   </head>
   <body>
         <h1> Belajar </h1>
-        <h2> Ngoding dan Git </h2>
+        <h2> Git Dan Git Hub </h2>
   </body>
 </html>
